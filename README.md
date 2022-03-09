@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @epicskills1
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Html+css+Js
+- 👀 I’m interested in 
+- 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
