@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Soumyadeep Chakraborty</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I am currently working as a Trainee Software Engineer at Apmosys Technology Pvt Ltd. I have a strong passion for Machine Learning, Deep Learning, and Generative AI.
+
+I completed my B.Tech in Computer Science and Engineering (2021–2025) from RCC Institute of Information Technology, Kolkata.
+
+ </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=epicskills1&label=Profile%20views&color=0e75b6&style=flat" alt="epicskills1" /> </p>
 
